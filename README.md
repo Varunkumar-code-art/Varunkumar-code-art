@@ -106,7 +106,6 @@ const varun = {
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
@@ -149,21 +148,12 @@ const varun = {
 
 <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake-dark.svg"
-  />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake-dark.svg">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg"
-  />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg">
 
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg"
-  />
-
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg">
 </picture>
 
 </div>
