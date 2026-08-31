@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/varun-kumar-v-937a59356">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
 
@@ -41,7 +41,7 @@ const varun = {
     name: "Varun Kumar V",
     location: "India 🇮🇳",
     currentFocus: ["Data Structures & Algorithms", "Java", "Problem Solving"],
-    learning: ["Java", "DSA", "Git & GitHub", "Web Development"],
+    learning: ["Java", "DSA", "Git & GitHub"],
     interests: ["Problem Solving", "Programming", "Technology"],
     motto: "Learning. Coding. Improving. 🚀",
     
@@ -67,53 +67,39 @@ const varun = {
   Tech Arsenal
 </h2>
 
+<!-- Tech Stack with Icons -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
+  Tech Arsenal
+</h2>
+
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### 🎨 Frontend Magic
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-</div>
-
-#### ⚙️ Backend Power
-<div align="center">
+#### 💻 Languages
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-</div>
+<br><br>
 
-</td>
+#### 🛠️ Tools
 
-<td valign="top" width="50%">
-
-#### 🗄️ Database & Cloud
-<div align="center">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
-
-#### 💻 Languages & Tools
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-</div>
+<br><br>
 
-</td>
-</tr>
-</table>
+#### 🤖 Machine Learning & Libraries
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 
 </div>
 
