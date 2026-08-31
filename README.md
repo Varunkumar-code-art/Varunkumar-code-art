@@ -153,9 +153,4 @@ const varun = {
 
 <img src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg" alt="GitHub Contribution Snake">
 
-</div>ontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg"
-    />
-
-  </picture>
-
 </div>
