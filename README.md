@@ -145,13 +145,17 @@ const varun = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- GitHub Contribution Snake -->
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg" alt="GitHub Contribution Snake">
-</picture>
+<img src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake">
+
+<img src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake">
 
 </div>
