@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🐍 My Contribution Snake
-
 ![GitHub Snake](https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-contribution-grid-snake.svg)
