@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi, I'm Varun Kumar 👋
 <!--
 **Varunkumar-code-art/Varunkumar-code-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
