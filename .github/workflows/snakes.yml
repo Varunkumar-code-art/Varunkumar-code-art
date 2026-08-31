@@ -16,12 +16,12 @@ jobs:
         with:
           github_user_name: Varunkumar-code-art
           outputs: |
-            output/github-snake.svg
+            output/github-snake.svg?palette=github-light
             output/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: output
-          jekyll: false
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
