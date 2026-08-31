@@ -8,7 +8,7 @@
 
 <br>
 
-<!-- Social Links with Glowing Effect -->
+<!-- Social Links -->
 <p align="center">
 
   <a href="https://github.com/Varunkumar-code-art">
@@ -32,19 +32,33 @@
 
 
 <!-- About Me Section -->
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+### 🧠 About Me
 
 ```javascript
 const varun = {
     name: "Varun Kumar V",
     location: "India 🇮🇳",
-    currentFocus: ["Data Structures & Algorithms", "Java", "Problem Solving"],
-    learning: ["Java", "DSA", "Git & GitHub", "Web Development"],
-    interests: ["Problem Solving", "Programming", "Technology"],
+    currentFocus: [
+        "Data Structures & Algorithms",
+        "Java",
+        "Problem Solving"
+    ],
+    learning: [
+        "Java",
+        "DSA",
+        "Git & GitHub",
+        "Web Development"
+    ],
+    interests: [
+        "Problem Solving",
+        "Programming",
+        "Technology"
+    ],
     motto: "Learning. Coding. Improving. 🚀",
-    
+
     lifeLoop: function() {
         while(alive) {
             learn();
@@ -54,32 +68,3 @@ const varun = {
         }
     }
 };
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
-<!-- GitHub Contribution Snake -->
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
-    />
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
-    />
-
-  </picture>
-
-</div>
