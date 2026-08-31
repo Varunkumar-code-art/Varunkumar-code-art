@@ -152,8 +152,10 @@ const varun = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake">
-
-<img src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
