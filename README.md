@@ -42,7 +42,7 @@ const varun = {
     location: "India 🇮🇳",
     currentFocus: ["Data Structures & Algorithms", "Java", "Problem Solving"],
     learning: ["Java", "DSA", "Git & GitHub"],
-    interests: ["Problem Solving", "Programming", "Technology"],
+    interests: ["Problem Solving", "Programming"],
     motto: "Learning. Coding. Improving. 🚀",
     
     lifeLoop: function() {
