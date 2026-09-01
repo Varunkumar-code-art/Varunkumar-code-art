@@ -36,7 +36,6 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-```javascript
 const varun = {
     name: "Varun Kumar V",
     location: "India 🇮🇳",
@@ -54,7 +53,6 @@ const varun = {
         }
     }
 };
-```
 
 <br clear="right"/>
 
