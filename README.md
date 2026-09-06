@@ -1,13 +1,25 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0000,100:8B0000&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+<p align="center">
+  <picture>
+    <!-- Dark Theme: Brighter Red -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B22222,100:DC3545&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35">
+
+    <!-- Light Theme: Much Darker Red -->
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3B0000,100:800000&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35">
+
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0000,100:800000&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Header">
+  </picture>
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=FFFFFF&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=4A0000&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality.">
+
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=3B0000&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality.">
+
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=FFFFFF&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality." alt="Typing SVG">
   </picture>
 </p>
