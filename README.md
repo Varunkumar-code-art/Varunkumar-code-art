@@ -19,17 +19,30 @@
   </picture>
 </p>
 
-<!-- Typing Animation -->
+
+<!-- Social Links with Glowing Effect -->
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=FFFFFF&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality.">
 
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=3B0000&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality.">
+  <a href="https://github.com/Varunkumar-code-art">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=FFFFFF&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality." alt="Typing SVG">
-  </picture>
+  <a href="https://www.linkedin.com/in/varun-kumar-v-937a59356">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+
+  <a href="mailto:vvarunkumar2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+
 </p>
 
+<!-- Animated Divider -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
 <!-- Social Links with Glowing Effect -->
 <p align="center">
 
