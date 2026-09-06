@@ -8,18 +8,20 @@
 <br>
 
 <!-- Social Links with Glowing Effect -->
-<p align="center">
+<p align="center" style="font-family: 'Times New Roman', Times, serif; font-size: 22px;">
 
-  <a href="https://github.com/Varunkumar-code-art">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  <a href="https://github.com/Varunkumar-code-art" style="font-family: 'Times New Roman', Times, serif;">
+    GitHub
   </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
-  <a href="www.linkedin.com/in/varun-kumar-v-937a59356">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  <a href="https://www.linkedin.com/in/varun-kumar-v-937a59356" style="font-family: 'Times New Roman', Times, serif;">
+    LinkedIn
   </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:vvarunkumar2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  <a href="mailto:vvarunkumar2005@gmail.com" style="font-family: 'Times New Roman', Times, serif;">
+    Gmail
   </a>
 
 </p>
