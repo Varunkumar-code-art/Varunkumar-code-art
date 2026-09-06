@@ -23,6 +23,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=FFFFFF&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality." alt="Typing SVG">
   </picture>
 </p>
+<!-- Typing Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=FFFFFF&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality.">
+
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=3B0000&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality.">
+
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=FFFFFF&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality." alt="Typing SVG">
+  </picture>
+</p>
 
 <!-- Social Links with Glowing Effect -->
 <p align="center">
