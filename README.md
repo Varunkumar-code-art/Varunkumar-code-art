@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/>>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Problem+Solver+%F0%9F%A7%A0;DSA+Enthusiast+%F0%9F%92%BB;Java+Developer+%E2%98%95;Learning+Every+Day+%F0%9F%9A%80;Building+My+Skills+%F0%9F%94%A5" alt="Typing SVG" />
 
