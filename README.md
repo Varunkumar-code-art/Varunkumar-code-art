@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=E63946&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=FFFFFF&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality." alt="Typing SVG" />
 <br>
 
 <!-- Social Links with Glowing Effect -->
