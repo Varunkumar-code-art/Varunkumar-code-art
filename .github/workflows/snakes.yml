@@ -13,9 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Varunkumar-code-art
           outputs: |
