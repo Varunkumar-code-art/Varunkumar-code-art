@@ -38,7 +38,7 @@
 <!-- About Me Section -->
 <div align="left">
 
-# 💫 About Me:
+<h2><img src="YOUR_ANIMATED_STATS_GIF" width="30"> About Me</h2>
 
 ```javascript
 const varun = {
