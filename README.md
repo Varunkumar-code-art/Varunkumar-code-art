@@ -14,10 +14,8 @@
   </picture>
 </p>
 
-<!-- ⚡ ELECTRIC DIVIDER -->
-<p align="center">
-  <img src="./assets/lightning-divider.gif" width="100%">
-</p>
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Social Links with Glowing Effect -->
 
@@ -148,10 +146,8 @@ const varun = {
 
 </div>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="./assets/lightning-divider.gif" width="100%">
-</p>
+<!-- Wave Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- GitHub Contribution Snake -->
 
