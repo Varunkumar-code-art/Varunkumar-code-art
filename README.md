@@ -36,9 +36,9 @@
 </p>
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="left">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+# 💫 About Me:
 
 ```javascript
 const varun = {
@@ -60,8 +60,7 @@ const varun = {
 };
 ```
 
-
-<br clear="left"/>
+</div>
 
 <!-- Wave Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
