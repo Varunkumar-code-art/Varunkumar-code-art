@@ -48,7 +48,7 @@ const varun = {
     learning: ["Java", "DSA", "Git & GitHub"],
     interests: ["Problem Solving", "Programming"],
     motto: "Learning. Coding. Improving. 🚀",
-    
+
     lifeLoop: function() {
         while(alive) {
             learn();
@@ -59,6 +59,7 @@ const varun = {
     }
 };
 ```
+
 
 <br clear="right"/>
 
