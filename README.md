@@ -8,23 +8,21 @@
 <br>
 
 <!-- Social Links with Glowing Effect -->
-<p align="center" style="font-family: 'Times New Roman', Times, serif; font-size: 22px;">
+<p align="center">
 
-  <a href="https://github.com/Varunkumar-code-art" style="font-family: 'Times New Roman', Times, serif;">
-    GitHub
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/varun-kumar-v-937a59356" style="font-family: 'Times New Roman', Times, serif;">
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:vvarunkumar2005@gmail.com" style="font-family: 'Times New Roman', Times, serif;">
-    Gmail
+  <a href="https://github.com/Varunkumar-code-art">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
 
-</p>
+  <a href="www.linkedin.com/in/varun-kumar-v-937a59356">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+
+  <a href="mailto:vvarunkumar2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+
+</p> 
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -75,7 +73,7 @@ const varun = {
 
 <td valign="top" width="50%">
 
-#### 💻 Languages
+####  Languages
 
 <div align="center">
 
@@ -90,7 +88,7 @@ const varun = {
 
 <td valign="top" width="50%">
 
-#### 🛠️ Tools
+#### Tools
 
 <div align="center">
 
@@ -110,7 +108,7 @@ const varun = {
 
 <td valign="top" width="50%">
 
-#### 🤖 Machine Learning & Libraries
+####  Machine Learning & Libraries
 
 <div align="center">
 
@@ -125,7 +123,7 @@ const varun = {
 
 <td valign="top" width="50%">
 
-#### ☁️ Database & Cloud
+####  Database & Cloud
 
 <div align="center">
 
