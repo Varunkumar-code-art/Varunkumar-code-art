@@ -14,6 +14,9 @@
   </picture>
 </p>
 
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/horizontal-divider.gif" width="100%">
+
 <!-- Social Links with Glowing Effect -->
 
 <p align="center">
