@@ -1,17 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<p align="center">
-  <picture>
-    <!-- Dark Theme: Brighter Red -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:B22222,100:DC3545&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35">
-
-    <!-- Light Theme: Much Darker Red -->
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3B0000,100:800000&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35">
-
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0000,100:800000&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Header">
-  </picture>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/> this one is very dark theme but when light its very light i want it to be dark all time
 
 <!-- Typing Animation -->
 <p align="center">
