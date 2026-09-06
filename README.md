@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=240&section=header&text=Varun%20Kumar%20V&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Problem+Solver+%F0%9F%A7%A0;DSA+Enthusiast+%F0%9F%92%BB;Java+Developer+%E2%98%95;Learning+Every+Day+%F0%9F%9A%80;Building+My+Skills+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=800&color=FF003C&center=true&vCenter=true&random=false&width=850&height=100&lines=THINK.+CODE.+BREAK.+FIX.+REPEAT.+%F0%9F%94%A5;DSA+IS+THE+GAME.+I'M+PLAYING+TO+WIN.+%F0%9F%A7%A0;JAVA+%7C+DSA+%7C+AI%2FML+%E2%9A%A1;ERROR+%3F+GOOD.+NOW+I+KNOW+WHAT+TO+FIX.+%F0%9F%92%80;BUILDING+MY+WAY+FROM+BEGINNER+TO+BEAST.+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
