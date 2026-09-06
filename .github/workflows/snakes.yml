@@ -19,15 +19,24 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Varunkumar-code-art
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-snake.svg?palette=github-light
+            output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
 
       - name: Push Snake to output branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/
-          git commit -m "Update Snake contribution graph" || exit 0
-          git push --force origin HEAD:output
+
+          cd output
+
+          git init
+          git checkout -b output
+
+          git add .
+          git commit -m "Update Snake contribution graph"
+
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+
+          git push --force origin output
