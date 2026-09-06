@@ -68,78 +68,137 @@ const varun = {
 <!-- Wave Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ==================== TECH ARSENAL ==================== -->
+<!-- Tech Arsenal -->
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
-  &nbsp;Tech Arsenal&nbsp;
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
+  &nbsp;Tech Arsenal
 </h2>
 
 <p align="center">
-  <i>Technologies, tools &amp; frameworks I build with</i>
+  <i>Technologies and tools I use to build, solve and innovate</i>
 </p>
 
 <br>
 
-<!-- ==================== LANGUAGES ==================== -->
+<div align="center">
 
-<h3 align="center">⚡ Languages</h3>
+<table>
+<tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-5C0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-7B1E1E?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-660000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<td align="center" width="33%">
+
+### 💻 Languages
 
 <br>
 
-<!-- ==================== TOOLS ==================== -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<h3 align="center">🛠️ Development Tools</h3>
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-5C0000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-7B1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-660000?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-8B0000?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<br>
+<br><br>
 
-<!-- ==================== AI / ML ==================== -->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 
-<h3 align="center">🤖 Machine Learning &amp; Data</h3>
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-8B0000?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-5C0000?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-7B1E1E?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-660000?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI / ML
 
 <br>
 
-<!-- ==================== DATABASE / CLOUD ==================== -->
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
-<h3 align="center">☁️ Database &amp; Cloud</h3>
+<br><br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-8B0000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-5C0000?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-7B1E1E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-660000?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ Tools
 
 <br>
 
-<!-- ==================== DIVIDER ==================== -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B0000,100:8B0000&height=2&section=header&width=900"/>
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🗄️ Databases
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Cloud
+
+<br>
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🐳 DevOps
+
+<br>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 
 <!-- Animated Divider -->
