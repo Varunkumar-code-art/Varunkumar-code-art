@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/> this one is very dark theme but when light its very light i want it to be dark all time
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Varun%20Kumar%20V&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=FFFFFF&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Problem+Solver+%F0%9F%A7%A0;DSA+Enthusiast+%F0%9F%92%BB;Java+Developer+%E2%98%95;Learning+Every+Day+%F0%9F%9A%80;Building+My+Skills+%F0%9F%94%A5" alt="Typing SVG" />
 
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=32&pause=1100&color=3B0000&center=true&vCenter=true&random=false&width=850&height=100&lines=Code.+Logic.+Precision.;Java+%7C+DSA+%7C+AI%2FML;Think.+Build.+Solve.;Engineering+Ideas+Into+Reality.">
 
@@ -173,3 +171,7 @@ const varun = {
 <img src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake">
 
 </div>
+
+
+
+
