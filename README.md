@@ -16,7 +16,7 @@
 
 <!-- ⚡ ELECTRIC DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7F00FF,100:00FFFF&height=6&section=header&animation=twinkling" width="100%">
+  <img src="./assets/lightning-divider.gif" width="100%">
 </p>
 
 <!-- Social Links with Glowing Effect -->
