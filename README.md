@@ -14,8 +14,10 @@
   </picture>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/horizontal-divider.gif" width="100%">
+<!-- ⚡ Animated Divider -->
+<p align="center">
+  <img src="https://readmeforge.natrajx.in/api/divider?style=gradient&width=1200&height=35" width="100%">
+</p>
 
 <!-- Social Links with Glowing Effect -->
 
