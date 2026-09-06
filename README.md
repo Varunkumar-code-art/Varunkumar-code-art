@@ -150,8 +150,9 @@ const varun = {
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=4&width=700" width="60%">
+  <img src="./assets/lightning-divider.gif" width="100%">
 </p>
+
 <!-- GitHub Contribution Snake -->
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
