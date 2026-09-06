@@ -38,7 +38,10 @@
 <!-- About Me Section -->
 <div align="left">
 
-<h2><img src="YOUR_ANIMATED_STATS_GIF" width="30"> About Me</h2>
+<h2>
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/estadisticas-animation-gif-download-8047533.gif" width="30px">
+  About Me
+</h2>
 
 ```javascript
 const varun = {
@@ -58,9 +61,6 @@ const varun = {
         }
     }
 };
-```
-
-</div>
 
 <!-- Wave Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
