@@ -14,9 +14,6 @@
   </picture>
 </p>
 
-<!-- Wave Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <!-- Social Links with Glowing Effect -->
 
 <p align="center">
@@ -62,8 +59,6 @@ const varun = {
     }
 };
 ```
-<!-- Wave Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Tech Stack with Icons -->
 <h2 align="center">
@@ -146,8 +141,6 @@ const varun = {
 
 </div>
 
-<!-- Wave Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
@@ -160,9 +153,6 @@ const varun = {
 <img src="https://streak-stats.demolab.com/?user=Varunkumar-code-art&theme=dark&hide_border=false">
 
 </div>
-
-<!-- Wave Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- GitHub Contribution Snake -->
 
