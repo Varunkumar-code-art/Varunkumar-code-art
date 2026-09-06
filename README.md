@@ -68,86 +68,78 @@ const varun = {
 <!-- Wave Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Tech Stack with Icons -->
+<!-- ==================== TECH ARSENAL ==================== -->
+
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
-  Tech Arsenal
+  &nbsp;Tech Arsenal&nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
 </h2>
 
-<div align="center">
+<p align="center">
+  <i>Technologies, tools &amp; frameworks I build with</i>
+</p>
 
-<table>
-<tr>
+<br>
 
-<td valign="top" width="50%">
+<!-- ==================== LANGUAGES ==================== -->
 
-####  Languages
+<h3 align="center">⚡ Languages</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-5C0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-7B1E1E?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-660000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<br>
 
-</div>
+<!-- ==================== TOOLS ==================== -->
 
-</td>
+<h3 align="center">🛠️ Development Tools</h3>
 
-<td valign="top" width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-5C0000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-7B1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-660000?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-8B0000?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-#### Tools
+<br>
 
-<div align="center">
+<!-- ==================== AI / ML ==================== -->
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<h3 align="center">🤖 Machine Learning &amp; Data</h3>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-8B0000?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-5C0000?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-7B1E1E?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-660000?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+</p>
 
-</td>
+<br>
 
-</tr>
+<!-- ==================== DATABASE / CLOUD ==================== -->
 
-<tr>
+<h3 align="center">☁️ Database &amp; Cloud</h3>
 
-<td valign="top" width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-8B0000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-5C0000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-7B1E1E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-660000?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-####  Machine Learning & Libraries
+<br>
 
-<div align="center">
+<!-- ==================== DIVIDER ==================== -->
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-
-</div>
-
-</td>
-
-<td valign="top" width="50%">
-
-####  Database & Cloud
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B0000,100:8B0000&height=2&section=header&width=900"/>
+</p>
 
 
 <!-- Animated Divider -->
