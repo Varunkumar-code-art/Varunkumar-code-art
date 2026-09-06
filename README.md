@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:4B0082&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 <!-- Typing Animation -->
 <p align="center">
