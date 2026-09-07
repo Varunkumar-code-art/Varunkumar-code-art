@@ -32,11 +32,14 @@
 
 </p>
 
+<!-- Close the main centered section -->
+</div>
+
 <!-- About Me Section -->
 <div align="left">
 
 <h2>
-  <img src="YOUR_ANIMATED_ABOUT_ME_ICON" width="30px">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/assets/coding.gif" width="30px">
   About Me
 </h2>
 
