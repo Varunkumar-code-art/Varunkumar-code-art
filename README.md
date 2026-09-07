@@ -36,7 +36,7 @@
 <div align="left">
 
 <h2>
-  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/estadisticas-animation-gif-download-8047533.gif" width="30px">
+  <img src="YOUR_ANIMATED_ABOUT_ME_ICON" width="30px">
   About Me
 </h2>
 
@@ -59,7 +59,6 @@ const varun = {
     }
 };
 ```
-
 <!-- Tech Stack with Icons -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
