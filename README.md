@@ -164,7 +164,3 @@ const varun = {
 <img src="https://raw.githubusercontent.com/Varunkumar-code-art/Varunkumar-code-art/output/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake">
 
 </div>
-
-
-
-
