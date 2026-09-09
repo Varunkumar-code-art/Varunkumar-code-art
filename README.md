@@ -4,7 +4,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0000,100:7A0000&height=200&section=header&text=Varun%20Kumar%20V&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-
 <!-- Typing Animation -->
 <p align="center">
   <picture>
